@@ -1,0 +1,5 @@
+1. buat file bebas
+2. git add nama_file
+3. git commit -m 'Pesan ganti disini'
+4. git pull
+5. git push
